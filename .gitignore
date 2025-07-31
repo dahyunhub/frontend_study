@@ -1,0 +1,21 @@
+# macOS system file
+.DS_Store
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# VSCode settings
+.vscode/
+
+# Node.js project files (미래 확장 대비)
+node_modules/
+
+# 환경 변수 파일
+.env
+
+# 로그 파일
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
